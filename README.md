@@ -18,7 +18,7 @@ This is a desktop application built with Python and Tkinter that allows users to
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone <[https://github.com/JoelElias96/Leetcode_conclusions)]>
    ```
 2. Install required Python packages:
    ```bash
