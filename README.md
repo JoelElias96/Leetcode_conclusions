@@ -41,13 +41,7 @@ This is a desktop application built with Python and Tkinter that allows users to
 - **Documents/conclusionTable.xlsx**: Excel file where conclusions are saved.
 - **Documents/subjectsList.txt**: Text file containing the list of subjects.
 
-## Screenshots
 
-### Main Window
-![App Screenshot](images/leetcode.png)
-
-### Add Conclusion
-- Type a new conclusion for the selected subject and save it to the Excel file.
 
 ## Dependencies
 
@@ -56,6 +50,3 @@ This is a desktop application built with Python and Tkinter that allows users to
 - Openpyxl
 - Tkinter (built into Python)
 
-## License
-
-This project is licensed under the MIT License.
